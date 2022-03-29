@@ -1,0 +1,11 @@
+* UAAM install system monitoring tools
+
+fish shell function to install the system monitoring tools that I use, for an Arch based system.
+
+List of packages to install:
+
+- bottom
+- glances
+- htop
+- procps-ng
+- procs
